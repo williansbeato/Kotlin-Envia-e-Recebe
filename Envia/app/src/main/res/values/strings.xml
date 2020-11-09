@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Send</string>
+    <string name="etText">Type your text :</string>
+    <string name="tvSelectImage">Select an image :</string>
+</resources>

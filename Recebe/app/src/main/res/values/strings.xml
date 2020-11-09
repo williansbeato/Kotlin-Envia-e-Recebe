@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Receive</string>
+    <string name="tvwReceivedText">Received Text</string>
+    <string name="tvReceivedImage">Received Image</string>
+</resources>

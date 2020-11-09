@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Envia</string>
+    <string name="etText">Digite seu texto :</string>
+    <string name="tvSelectImage">Selecione uma imagem :</string>
+</resources>
